@@ -22,5 +22,11 @@ public class TestController {
     }
 
 
+    public String index3(){
+
+        System.out.println("git branch confict");
+        return "index";
+    }
+
 
 }
