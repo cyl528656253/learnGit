@@ -15,4 +15,12 @@ public class TestController {
         return "index";
     }
 
+
+    public String index2(){
+
+        return "index";
+    }
+
+
+
 }
