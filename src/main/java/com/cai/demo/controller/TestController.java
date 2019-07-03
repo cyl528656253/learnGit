@@ -29,7 +29,6 @@ public class TestController {
     }
 
     public String index4(){
-
         System.out.println("git branch4");
         return "index";
     }
